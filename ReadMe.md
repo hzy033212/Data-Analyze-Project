@@ -29,9 +29,11 @@ For result plots, please refer to two .png files in this folder. Note there is f
 ##### Data Visulization:
 
 Just open it and test -> HW_House_Price_Visulization.html
-Take care to use only Chrome and it is better to first up a server:
+Take care to use only Chrome and it is better to first
 
+install a server:
 > npm install http-server -g
+Then up a server:
 > http-server &
 
 on the folder you put these files in.
