@@ -1,0 +1,16 @@
+{
+  "name": “house_spider_and_store”,
+  "version": "1.0.0",
+  "description": “House Spider And Store”,
+  "main": “v9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": “ZhengyuHuang”,
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "mongoose": "^4.5.10",
+    "request": "^2.74.0"
+  }
+}
