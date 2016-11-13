@@ -33,6 +33,7 @@ Take care to use only Chrome and it is better to first
 
 install a server:
 > npm install http-server -g
+
 Then up a server:
 > http-server &
 
